@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width">
 
 
-<title>What does human cognition over-optimise for? | SFTU</title>
+<title>PyTorch Forecasting | SFTU</title>
 
 <meta name="generator" content="Hugo Eureka 0.7.1-dev" />
 <link rel="stylesheet" href="/css/eureka.min.css">
@@ -58,7 +58,7 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_2.png">
 
 <meta name="description"
-  content="What processes do humans over-optimise for? Does this provide insights for what is required to be an effective agent in new environments?">
+  content="Docs">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,8 +70,8 @@
       "item":"/posts/"},{
       "@type": "ListItem",
       "position": 2 ,
-      "name":"What does human cognition over-optimise for?",
-      "item":"/posts/human-optimisation/"}]
+      "name":"PyTorch Forecasting",
+      "item":"/posts/pytorch-forecasting/"}]
 }
 </script>
 
@@ -83,11 +83,11 @@
     "@type": "Article",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "/posts/human-optimisation/"
+        "@id": "/posts/pytorch-forecasting/"
     },
-    "headline": "What does human cognition over-optimise for? | SFTU","datePublished": "2021-04-20T11:48:18+01:00",
-    "dateModified": "2021-04-20T11:48:18+01:00",
-    "wordCount":  385 ,
+    "headline": "PyTorch Forecasting | SFTU","datePublished": "2022-03-22T13:34:19+01:00",
+    "dateModified": "2022-03-22T13:34:19+01:00",
+    "wordCount":  114 ,
     "publisher": {
         "@type": "Person",
         "name": "S. Hickman",
@@ -96,21 +96,21 @@
             "url": "/images/icon.png"
         }
         },
-    "description": "\u003cp\u003eWhat processes do humans over-optimise for? Does this provide insights for what is required to be an effective agent in new environments?\u003c\/p\u003e"
+    "description": "\u003cp\u003e\u003ca href=\u0022https:\/\/pytorch-forecasting.readthedocs.io\/en\/stable\/\u0022\u003eDocs\u003c\/a\u003e\u003c\/p\u003e"
 }
-</script><meta property="og:title" content="What does human cognition over-optimise for? | SFTU" />
+</script><meta property="og:title" content="PyTorch Forecasting | SFTU" />
 <meta property="og:type" content="article" />
 
 
 <meta property="og:image" content="/images/icon.png">
 
 
-<meta property="og:url" content="/posts/human-optimisation/" />
+<meta property="og:url" content="/posts/pytorch-forecasting/" />
 
 
 
 
-<meta property="og:description" content="What processes do humans over-optimise for? Does this provide insights for what is required to be an effective agent in new environments?" />
+<meta property="og:description" content="Docs" />
 
 
 
@@ -127,10 +127,10 @@
 
 
 
-<meta property="article:published_time" content="2021-04-20T11:48:18&#43;01:00" />
+<meta property="article:published_time" content="2022-03-22T13:34:19&#43;01:00" />
 
 
-<meta property="article:modified_time" content="2021-04-20T11:48:18&#43;01:00" />
+<meta property="article:modified_time" content="2022-03-22T13:34:19&#43;01:00" />
 
 
 
@@ -215,15 +215,15 @@
 <div class="grid grid-cols-2 lg:grid-cols-8 gap-4 lg:pt-12">
     <div
         class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded px-6 py-8">
-        <h1 class="font-bold text-3xl text-primary-text">What does human cognition over-optimise for?</h1>
+        <h1 class="font-bold text-3xl text-primary-text">PyTorch Forecasting</h1>
         <div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
     <div class="mr-6 my-2">
         <i class="fas fa-calendar mr-1"></i>
-        <span>2021-04-20</span>
+        <span>2022-03-22</span>
     </div>
     <div class="mr-6 my-2">
         <i class="fas fa-clock mr-1"></i>
-        <span>2 min read</span>
+        <span>1 min read</span>
     </div>
     
     
@@ -235,14 +235,10 @@
         
 
         <div class="content">
-            <p>What processes do humans over-optimise for? Does this provide insights for what is required to be an effective agent in new environments?</p>
-<p>Many successful AI algorithms attempt to emulate human thinking. Take reinforcement learning. In reinforcement learning, an agent observes its environment, then takes an action, which then changes its environment. The action aims to help the ahent achieve a specified a goal. If the action taken helps the agent to increase the expectation of achieving the goal, then the agent is rewarded. If the action taken reduces the expectation of achieving the goal, then the agent is punished, and encouraged to take a different action next time.</p>
-<p>This parallels human cognition. If a human takes an action that helps the human to survive, dopamine is released by the brain (reward), and the human is encouraged that their action was good. If the action taken reduces the human&rsquo;s chance of survival, pain may be administered (punishment), and the human is therefore dissuaded from taking a similar action in future. This is the primary way that humans learn what actions to take in certain environments.</p>
-<p>There are numerous other examples of successful machine learning algorithms taking inspiration from human cognition to achieve high performance on certain tasks (e.g. attention mechanisms, deep neural networks).</p>
-<p>I wonder if by a deeper examination of human cognition we can better understand what human brains are strongly optimising for, and hence understand what cognitive processes are deeply required for an intelligent agent (assuming that humans qualify as intelligent agents - which is reasonable, since we are the most intelligent agents we have observed in the universe).</p>
-<p>One way to attack this may be to look at which cognitive processes do humans <strong>overemphasise</strong> compared to our best guess of the cognitive processes at a wholly rational agent. I mean <strong>overemphasise</strong> in the sense that humans may think using these processes, even to the point of detriment in understanding our environment.</p>
-<p>In <a href="https://www.amazon.co.uk/Whos-Charge-Free-Science-Brain/dp/1452655731">Who&rsquo;s in Charge</a> by <a href="https://psych.ucsb.edu/people/michael-gazzaniga">Michael Gazzaniga</a>, it is suggested that human brains are &lsquo;driven to explain events that make sense out of scattered facts&rsquo; with causality, even when there are no causal links. [Note to self: this needs much stronger evidence].</p>
-<p>Are we over-optimising to find causality? And does this suggest that discovering causal relationships is <strong>essential</strong> for an effective agent?</p>
+            <p><a href="https://pytorch-forecasting.readthedocs.io/en/stable/">Docs</a></p>
+<h3 id="super-forecasting-package">Super forecasting package</h3>
+<p>Recently I have been working on temporal forecasting of air pollution.</p>
+<p>Forecasting is a key part of migigating the worst effects of exposure to air pollution. By making accurate short-term forecasts we can provide warnings to those at risk. Carrying out this work with state-of-the-art models in native PyTorch is fairly involved, especially when trying to forecast a number of different time series with common behaviours. Enter <em>Pytorch Forecasting</em>. This is a really tight package which makes this type of forecasting relatively simple. Built by a now BCGer, adding to native PyTorch, with recent models already implemented, most things just work. What more can we ask for - thanks <a href="https://github.com/jdb78">Jan!</a>.</p>
         </div>
         
         
@@ -256,14 +252,11 @@
 <div class="flex flex-col md:flex-row md:justify-between -mx-2 mt-4 px-2 pt-4 border-t">
     <div>
         
-        <span class="block font-bold">Previous</span>
-        <a href="/posts/pytorch-forecasting/" class="block">PyTorch Forecasting</a>
-        
     </div>
     <div class="md:text-right mt-4 md:mt-0">
         
         <span class="block font-bold">Next</span>
-        <a href="/posts/understandin/" class="block">Understandin&#39; (A New Refutation of Flexibility and Compute)</a>
+        <a href="/posts/human-optimisation/" class="block">What does human cognition over-optimise for?</a>
         
     </div>
 </div>

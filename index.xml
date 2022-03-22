@@ -8,7 +8,16 @@
     <language>en</language>
     <copyright>&amp;copy; 2021, The Writers
 </copyright>
-    <lastBuildDate>Tue, 20 Apr 2021 11:48:18 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Mar 2022 13:34:19 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyTorch Forecasting</title>
+      <link>/posts/pytorch-forecasting/</link>
+      <pubDate>Tue, 22 Mar 2022 13:34:19 +0100</pubDate>
+      
+      <guid>/posts/pytorch-forecasting/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://pytorch-forecasting.readthedocs.io/en/stable/&#34;&gt;Docs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>What does human cognition over-optimise for?</title>
       <link>/posts/human-optimisation/</link>
@@ -16,15 +25,6 @@
       
       <guid>/posts/human-optimisation/</guid>
       <description>&lt;p&gt;What processes do humans over-optimise for? Does this provide insights for what is required to be an effective agent in new environments?&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch Forecasting</title>
-      <link>/posts/forecasting/</link>
-      <pubDate>Mon, 19 Apr 2021 20:34:19 +0100</pubDate>
-      
-      <guid>/posts/forecasting/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://pytorch-forecasting.readthedocs.io/en/stable/&#34;&gt;Docs&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
