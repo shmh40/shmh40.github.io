@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width">
 
 
-<title>Posts | SFTU</title>
+<title>PyTorch Forecasting | SFTU</title>
 
 <meta name="generator" content="Hugo Eureka 0.7.1-dev" />
 <link rel="stylesheet" href="/css/eureka.min.css">
@@ -58,45 +58,59 @@
 <link rel="apple-touch-icon" sizes="180x180" href="/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_2.png">
 
 <meta name="description"
-  content="Eureka is a elegant and powerful theme for Hugo.">
-
+  content="Docs">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+      "@type": "ListItem",
+      "position": 1 ,
+      "name":"Posts",
+      "item":"/posts/"},{
+      "@type": "ListItem",
+      "position": 2 ,
+      "name":"PyTorch Forecasting",
+      "item":"/posts/forecasting/"}]
+}
+</script>
 
 
 
 <script type="application/ld+json">
 {
-    "@context":"https://schema.org",
-    "@type":"ItemList",
-    "itemListElement":[{
-            "@type":"ListItem",
-            "position":  1 ,
-            "name": "Causality",
-            "description": "\u003cp\u003eWhat is causal inference? Do we really need it? Is it useful in its current formulation?\u003c/p\u003e",
-            "url": "/posts/causality/"
-        },{
-            "@type":"ListItem",
-            "position":  2 ,
-            "name": "Why?",
-            "description": "\u003cp\u003eWhy work in environmental science? And why use machine learning?\u003c/p\u003e",
-            "url": "/posts/why/"
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "/posts/forecasting/"
+    },
+    "headline": "PyTorch Forecasting | SFTU","datePublished": "2021-04-19T20:34:19+01:00",
+    "dateModified": "2021-04-19T20:34:19+01:00",
+    "wordCount":  114 ,
+    "publisher": {
+        "@type": "Person",
+        "name": "S. Hickman",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "/images/icon.png"
         }
-    ]
+        },
+    "description": "\u003cp\u003e\u003ca href=\u0022https:\/\/pytorch-forecasting.readthedocs.io\/en\/stable\/\u0022\u003eDocs\u003c\/a\u003e\u003c\/p\u003e"
 }
-</script><meta property="og:title" content="Posts | SFTU" />
-<meta property="og:type" content="website" />
+</script><meta property="og:title" content="PyTorch Forecasting | SFTU" />
+<meta property="og:type" content="article" />
 
 
 <meta property="og:image" content="/images/icon.png">
 
 
-<meta property="og:url" content="/posts/" />
+<meta property="og:url" content="/posts/forecasting/" />
 
 
 
 
-
-<meta property="og:description" content="Eureka is a elegant and powerful theme for Hugo." />
-
+<meta property="og:description" content="Docs" />
 
 
 
@@ -113,14 +127,17 @@
 
 
 
-<meta property="og:updated_time" content="2021-04-20T11:48:18&#43;01:00" />
+<meta property="article:published_time" content="2021-04-19T20:34:19&#43;01:00" />
+
+
+<meta property="article:modified_time" content="2021-04-19T20:34:19&#43;01:00" />
 
 
 
 <meta property="article:section" content="posts" />
 
 
-<link rel="alternate" type="application/rss+xml" href="/posts/index.xml" title="SFTU" />
+
 
 <body class="flex flex-col min-h-screen">
   <header class="fixed flex items-center w-full min-h-16 pl-scrollbar z-50 bg-secondary-bg shadow-sm">
@@ -193,106 +210,75 @@
   <main class="flex-grow pt-16">
     <div class="pl-scrollbar">
       <div class="w-full max-w-screen-xl lg:px-4 xl:px-8 mx-auto">
-<article class="mx-6 my-8">
-    <h1 class="font-bold text-3xl text-primary-text">Posts</h1>
-    
-</article>
-<div class="bg-secondary-bg rounded px-6">
-    <div class="overflow-hidden divide-y">
-  
-  <div class="py-6">
-    <div class="flex flex-col-reverse lg:flex-row justify-between">
-  
-  <div class="w-full ">
-    <div class="mb-4">
-  <a href="/posts/causality/" class="font-bold text-xl hover:text-eureka">Causality</a>
-</div>
-<div class="content">
-  What is causal inference? Do we really need it? Is it useful in its current formulation?
 
-</div>
 
-<div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
+<div class="grid grid-cols-2 lg:grid-cols-8 gap-4 lg:pt-12">
+    <div
+        class="col-span-2 lg:col-start-2 lg:col-span-6 bg-secondary-bg rounded px-6 py-8">
+        <h1 class="font-bold text-3xl text-primary-text">PyTorch Forecasting</h1>
+        <div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
     <div class="mr-6 my-2">
         <i class="fas fa-calendar mr-1"></i>
-        <span>2021-04-09</span>
+        <span>2021-04-19</span>
     </div>
     <div class="mr-6 my-2">
         <i class="fas fa-clock mr-1"></i>
-        <span>2 min read</span>
+        <span>1 min read</span>
     </div>
     
     
 
     
 </div>
+        
+        
+        
 
-  </div>
+        <div class="content">
+            <p><a href="https://pytorch-forecasting.readthedocs.io/en/stable/">Docs</a></p>
+<h3 id="super-forecasting-package">Super forecasting package</h3>
+<p>Recently I have been working on temporal forecasting of air pollution.</p>
+<p>Forecasting is a key part of migigating the worst effects of exposure to air pollution. By making accurate short-term forecasts we can provide warnings to those at risk. Carrying out this work with state-of-the-art models in native PyTorch is fairly involved, especially when trying to forecast a number of different time series with common behaviours. Enter <em>Pytorch Forecasting</em>. This is a really tight package which makes this type of forecasting relatively simple. Built by a now BCGer, adding to native PyTorch, with recent models already implemented, most things just work. What more can we ask for - thanks <a href="https://github.com/jdb78">Jan!</a>.</p>
+        </div>
+        
+        
+        
 
-  
-</div>
-  </div>
-  
-  <div class="py-6">
-    <div class="flex flex-col-reverse lg:flex-row justify-between">
-  
-  <div class="w-full ">
-    <div class="mb-4">
-  <a href="/posts/why/" class="font-bold text-xl hover:text-eureka">Why?</a>
-</div>
-<div class="content">
-  Why work in environmental science? And why use machine learning?
 
-</div>
-
-<div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
-    <div class="mr-6 my-2">
-        <i class="fas fa-calendar mr-1"></i>
-        <span>2021-04-08</span>
+        
+        
+        
+        
+<div class="flex flex-col md:flex-row md:justify-between -mx-2 mt-4 px-2 pt-4 border-t">
+    <div>
+        
+        <span class="block font-bold">Previous</span>
+        <a href="/posts/human-optimisation/" class="block">What does human cognition over-optimise for?</a>
+        
     </div>
-    <div class="mr-6 my-2">
-        <i class="fas fa-clock mr-1"></i>
-        <span>2 min read</span>
+    <div class="md:text-right mt-4 md:mt-0">
+        
+        <span class="block font-bold">Next</span>
+        <a href="/posts/understandin/" class="block">Understandin&#39; (A New Refutation of Flexibility and Compute)</a>
+        
+    </div>
+</div>
+
+        
+
+
+
     </div>
     
-    
 
     
+    
 </div>
-
-  </div>
-
-  
-</div>
-  </div>
-  
-</div>
-
-
-</div>
-
-<ul class="pagination">
-  <li class="page-item">
-    <a href="/posts/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a href="/posts/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a class="page-link" href="/posts/">1</a>
-  </li>
-  <li class="page-item active">
-    <a class="page-link" href="/posts/page/2/">2</a>
-  </li>
-  <li class="page-item disabled">
-    <a  class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a href="/posts/page/2/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-  </li>
-</ul>
-
-
+<script>
+    document.addEventListener('DOMContentLoaded', ()=>{
+        hljs.initHighlightingOnLoad();
+    })
+</script>
 
       </div>
     </div>

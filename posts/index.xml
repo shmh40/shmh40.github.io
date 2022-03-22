@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>PyTorch Forecasting</title>
+      <link>/posts/forecasting/</link>
+      <pubDate>Mon, 19 Apr 2021 20:34:19 +0100</pubDate>
+      
+      <guid>/posts/forecasting/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://pytorch-forecasting.readthedocs.io/en/stable/&#34;&gt;Docs&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Understandin&#39; (A New Refutation of Flexibility and Compute)</title>
       <link>/posts/understandin/</link>
       <pubDate>Mon, 19 Apr 2021 20:34:19 +0100</pubDate>
