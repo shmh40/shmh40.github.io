@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on SFTU</title>
+    <title>Docs on sebhi</title>
     <link>/docs/</link>
-    <description>Recent content in Docs on SFTU</description>
+    <description>Recent content in Docs on sebhi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2022, Sebastian Hickman
