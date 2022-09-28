@@ -10,6 +10,19 @@
 </copyright>
     <lastBuildDate>Tue, 22 Mar 2022 13:34:19 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Wed, 28 Sep 2022 10:50:25 +0100</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Please see my Google Scholar profile for an up-to-date list of publications.
+Cohort-based long-term ozone exposure-associated mortality risks with adjusted metrics: A systematic review and meta-analysis
+Haitong Zhe Sun, Pei Yu, Changxin Lan, Michelle W.L. Wan, Sebastian Hickman,Jayaprakash Murulitharan, Huizhong Shen, Le Yuan, Yuming Guo, and Alexander T. Archibald
+Accurate tropical forest individual tree crown delineation from RGB imagery using Mask R-CNN
+Sebastian HM Hickman, James George Clifford Ball, Tobias D Jackson, Xian Jing Koay, James Hirst, William Jay, Melaine Aubry-Kientz, Gregoire Vincent, David A Coomes</description>
+    </item>
+    
+    <item>
       <title>PyTorch Forecasting</title>
       <link>/posts/pytorch-forecasting/</link>
       <pubDate>Tue, 22 Mar 2022 13:34:19 +0100</pubDate>
