@@ -8,27 +8,6 @@
     <loc>/publications/</loc>
     <lastmod>2022-09-28T10:50:25+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-03-22T13:34:19+01:00</lastmod>
-  </url><url>
-    <loc>/posts/pytorch-forecasting/</loc>
-    <lastmod>2022-03-22T13:34:19+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-03-22T13:34:19+01:00</lastmod>
-  </url><url>
-    <loc>/posts/human-optimisation/</loc>
-    <lastmod>2021-04-20T11:48:18+01:00</lastmod>
-  </url><url>
-    <loc>/posts/understandin/</loc>
-    <lastmod>2021-04-19T20:34:19+01:00</lastmod>
-  </url><url>
-    <loc>/posts/causality/</loc>
-    <lastmod>2021-04-09T11:48:18+01:00</lastmod>
-  </url><url>
-    <loc>/posts/why/</loc>
-    <lastmod>2021-04-08T23:16:59+01:00</lastmod>
-  </url><url>
     <loc>/sui-generis/</loc>
     <lastmod>2021-04-08T22:50:25+01:00</lastmod>
   </url><url>
@@ -36,6 +15,9 @@
     <lastmod>2021-04-08T22:41:40+01:00</lastmod>
   </url><url>
     <loc>/resources/</loc>
+    <lastmod>2021-04-08T22:41:40+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2021-04-08T22:41:40+01:00</lastmod>
   </url><url>
     <loc>/resources/phd_advice/</loc>
@@ -69,6 +51,8 @@
     <loc>/authors/example-author/</loc>
   </url><url>
     <loc>/authors/hugo-authors/</loc>
+  </url><url>
+    <loc>/posts/</loc>
   </url><url>
     <loc>/series/</loc>
   </url><url>
