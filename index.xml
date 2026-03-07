@@ -8,8 +8,22 @@
     <language>en</language>
     <copyright>&amp;copy; 2026, Sebastian Hickman
 </copyright>
-    <lastBuildDate>Wed, 28 Sep 2022 10:50:25 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 22:50:25 +0100</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mythical Places</title>
+      <link>/mythical-places/</link>
+      <pubDate>Fri, 06 Mar 2026 22:50:25 +0100</pubDate>
+      <guid>/mythical-places/</guid>
+      <description>&lt;p&gt;Inspired by Michael Nielsen&amp;rsquo;s &lt;a href=&#34;https://michaelnotebook.com/ongoing/places.html&#34;&gt;places&lt;/a&gt;, and his description of the Imperial Palace Gardens.&lt;/p&gt;&#xA;&lt;h3&gt;&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Pictures</title>
+      <link>/pictures/</link>
+      <pubDate>Fri, 06 Mar 2026 22:50:25 +0100</pubDate>
+      <guid>/pictures/</guid>
+      <description>&lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;</description>
+    </item>
     <item>
       <title>Publications</title>
       <link>/publications/</link>
