@@ -4,28 +4,25 @@
     <title>Example Doc on sebhi</title>
     <link>/docs/example-doc/</link>
     <description>Recent content in Example Doc on sebhi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2024, Sebastian Hickman
+    <copyright>&amp;copy; 2026, Sebastian Hickman
 </copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/docs/example-doc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/docs/example-doc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter 1</title>
       <link>/docs/example-doc/chapter-1/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>/docs/example-doc/chapter-1/</guid>
       <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Chapter 2</title>
       <link>/docs/example-doc/chapter-2/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>/docs/example-doc/chapter-2/</guid>
       <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

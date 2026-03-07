@@ -4,82 +4,67 @@
     <title>sebhi</title>
     <link>/</link>
     <description>Recent content on sebhi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2024, Sebastian Hickman
+    <copyright>&amp;copy; 2026, Sebastian Hickman
 </copyright>
-    <lastBuildDate>Thu, 08 Apr 2021 22:41:40 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Sep 2022 10:50:25 +0100</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
       <link>/publications/</link>
       <pubDate>Wed, 28 Sep 2022 10:50:25 +0100</pubDate>
-      
       <guid>/publications/</guid>
-      <description>Please see my Google Scholar profile for an up-to-date list of publications.</description>
+      <description>&lt;p&gt;&lt;em&gt;Please see my &lt;a href=&#34;https://scholar.google.co.uk/citations?user=eoZSEKYAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar profile&lt;/a&gt; for an up-to-date list of publications.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sui Generis</title>
       <link>/sui-generis/</link>
       <pubDate>Thu, 08 Apr 2021 22:50:25 +0100</pubDate>
-      
       <guid>/sui-generis/</guid>
-      <description>&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;</description>
+      <description>&lt;h3&gt;&lt;/h3&gt;</description>
     </item>
-    
     <item>
       <title>Blogs of interest</title>
       <link>/resources/general_interest/</link>
       <pubDate>Thu, 08 Apr 2021 22:41:40 +0100</pubDate>
-      
       <guid>/resources/general_interest/</guid>
       <description>&lt;h3 id=&#34;a-collection-of-good-reading&#34;&gt;A collection of good reading&lt;/h3&gt;</description>
     </item>
-    
     <item>
       <title>PhD Advice</title>
       <link>/resources/phd_advice/</link>
       <pubDate>Thu, 08 Apr 2021 21:51:06 +0100</pubDate>
-      
       <guid>/resources/phd_advice/</guid>
       <description>&lt;h3 id=&#34;a-collection-of-advice-on-completing-a-phd&#34;&gt;A collection of advice on completing a PhD&lt;/h3&gt;</description>
     </item>
-    
     <item>
       <title>Chapter 1</title>
       <link>/docs/example-doc/chapter-1/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>/docs/example-doc/chapter-1/</guid>
       <description>&lt;p&gt;This is chapter 1 of example doc.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Chapter 1</title>
       <link>/docs/example-doc/nested-chapter/chapter-1/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>/docs/example-doc/nested-chapter/chapter-1/</guid>
       <description>&lt;p&gt;This is chapter 1 of nested chapter.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Chapter 2</title>
       <link>/docs/example-doc/chapter-2/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>/docs/example-doc/chapter-2/</guid>
       <description>&lt;p&gt;This is chapter 2 of example doc.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Chapter 2</title>
       <link>/docs/example-doc/nested-chapter/chapter-2/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>/docs/example-doc/nested-chapter/chapter-2/</guid>
       <description>&lt;p&gt;This is chapter 2 of nested chapter.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

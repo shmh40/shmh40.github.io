@@ -4,9 +4,10 @@
     <title>Example Author on sebhi</title>
     <link>/authors/example-author/</link>
     <description>Recent content in Example Author on sebhi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2024, Sebastian Hickman
-</copyright><atom:link href="/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2026, Sebastian Hickman
+</copyright>
+    <atom:link href="/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
