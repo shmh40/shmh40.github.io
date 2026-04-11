@@ -87,7 +87,7 @@
     },
     "headline": "Pictures | sebhi","datePublished": "2026-03-06T22:50:25+01:00",
     "dateModified": "2026-03-06T22:50:25+01:00",
-    "wordCount":  62 ,
+    "wordCount":  56 ,
     "publisher": {
         "@type": "Person",
         "name": "Sebastian Hickman",
@@ -161,7 +161,7 @@
             <a href="/posts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">Posts</a>
             <a href="/resources/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">Resources</a>
             <a href="/sui-generis" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">Sui Generis</a>
-            <a href="/mythical-places/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">Mythical Places</a>
+            <a href="/mythical-places/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">Places</a>
             <a href="/pictures/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  selected-menu-item  mr-4">Pictures</a>
         </div>
 
@@ -273,12 +273,15 @@
 .gallery .info {
   padding: 0.9rem 1rem 1rem;
   font-size: 0.95rem;
-  color: rgba(255, 255, 255, 0.7);
+  color: inherit;
 }
 .gallery .title {
   font-weight: 600;
   margin-bottom: 0.3rem;
-  color: rgba(255, 255, 255, 0.85);
+  color: inherit;
+}
+.gallery .caption {
+  opacity: 0.72;
 }
 </style>
 <div class="gallery">
@@ -288,7 +291,7 @@
     </summary>
     <div class="info">
       <div class="title">Fen Ditton</div>
-      Fen Ditton on a cold morning, near dawn. The church!
+      <div class="caption">Fen Ditton on a cold morning, near dawn.</div>
     </div>
   </details>
   <details>
@@ -297,7 +300,7 @@
     </summary>
     <div class="info">
       <div class="title">Imperial Palace Gardens</div>
-      Lucky to have an evening like this. Trees, rigidly straight buildings and huge planes.
+      <div class="caption">Lucky to have an evening like this. Trees, rigidly straight buildings and huge planes.</div>
     </div>
   </details>
   <details>
@@ -306,7 +309,7 @@
     </summary>
     <div class="info">
       <div class="title">Light frost.</div>
-      Mystical morning. Sunrise was otherworldly.
+      <div class="caption">Sunrise.</div>
     </div>
   </details>
   <details>
@@ -315,7 +318,7 @@
     </summary>
     <div class="info">
       <div class="title">Fishing.</div>
-      Picture of a man fishing. Very quiet corner of the world.
+      <div class="caption">Picture of a man fishing. Very quiet corner of the world.</div>
     </div>
   </details>
   <details>
@@ -324,7 +327,7 @@
     </summary>
     <div class="info">
       <div class="title">Tanner</div>
-      Perfect rooms. E?
+      <div class="caption">Perfect rooms. E?</div>
     </div>
   </details>
   <details>
@@ -333,7 +336,7 @@
     </summary>
     <div class="info">
       <div class="title">When god came to Cambridge.</div>
-      Taken by M.A.P. Wood.
+      <div class="caption">Taken by M.A.P. Wood.</div>
     </div>
   </details>
 </div>
@@ -355,9 +358,6 @@
         
     </div>
     <div class="md:text-right mt-4 md:mt-0">
-        
-        <span class="block font-bold">Next</span>
-        <a href="/publications/" class="block">Publications</a>
         
     </div>
 </div>

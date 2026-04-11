@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/publications/</loc>
+    <lastmod>2022-09-28T10:50:25+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-03-22T13:34:19+01:00</lastmod>
+  </url><url>
+    <loc>/resources/</loc>
+    <lastmod>2021-04-08T22:41:40+01:00</lastmod>
+  </url><url>
+    <loc>/sui-generis/</loc>
+    <lastmod>2021-04-08T22:50:25+01:00</lastmod>
+  </url><url>
     <loc>/mythical-places/</loc>
     <lastmod>2026-03-06T22:50:25+01:00</lastmod>
   </url><url>
@@ -11,19 +23,7 @@
     <loc>/</loc>
     <lastmod>2026-03-06T22:50:25+01:00</lastmod>
   </url><url>
-    <loc>/publications/</loc>
-    <lastmod>2022-09-28T10:50:25+01:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-03-22T13:34:19+01:00</lastmod>
-  </url><url>
-    <loc>/sui-generis/</loc>
-    <lastmod>2021-04-08T22:50:25+01:00</lastmod>
-  </url><url>
     <loc>/resources/general_interest/</loc>
-    <lastmod>2021-04-08T22:41:40+01:00</lastmod>
-  </url><url>
-    <loc>/resources/</loc>
     <lastmod>2021-04-08T22:41:40+01:00</lastmod>
   </url><url>
     <loc>/resources/phd_advice/</loc>

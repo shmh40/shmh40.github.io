@@ -11,6 +11,20 @@
     <lastBuildDate>Fri, 06 Mar 2026 22:50:25 +0100</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Wed, 28 Sep 2022 10:50:25 +0100</pubDate>
+      <guid>/publications/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Please see my &lt;a href=&#34;https://scholar.google.co.uk/citations?user=eoZSEKYAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar profile&lt;/a&gt; for an up-to-date list of publications.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sui Generis</title>
+      <link>/sui-generis/</link>
+      <pubDate>Thu, 08 Apr 2021 22:50:25 +0100</pubDate>
+      <guid>/sui-generis/</guid>
+      <description>&lt;h4&gt;&lt;/h4&gt;</description>
+    </item>
+    <item>
       <title>Mythical Places</title>
       <link>/mythical-places/</link>
       <pubDate>Fri, 06 Mar 2026 22:50:25 +0100</pubDate>
@@ -23,20 +37,6 @@
       <pubDate>Fri, 06 Mar 2026 22:50:25 +0100</pubDate>
       <guid>/pictures/</guid>
       <description>&lt;h3 id=&#34;gallery&#34;&gt;Gallery&lt;/h3&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Wed, 28 Sep 2022 10:50:25 +0100</pubDate>
-      <guid>/publications/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Please see my &lt;a href=&#34;https://scholar.google.co.uk/citations?user=eoZSEKYAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar profile&lt;/a&gt; for an up-to-date list of publications.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sui Generis</title>
-      <link>/sui-generis/</link>
-      <pubDate>Thu, 08 Apr 2021 22:50:25 +0100</pubDate>
-      <guid>/sui-generis/</guid>
-      <description>&lt;h3&gt;&lt;/h3&gt;</description>
     </item>
     <item>
       <title>Blogs of interest</title>
